@@ -57,7 +57,7 @@ which hyprland jq kitty dex fd fzf python
 Add the following configuration to your Hyprland setup. Alternatively, you can place the `hyprun` launcher directly in your `~/.config` directory for easier access:
 
 ```
-bind = $mainMod, D, exec, /bin/python ~/.config/fzfhy/fzfhy.py
+bind = $mainMod, D, exec, /bin/python ~/.config/hyprun/hyprun.py
 ```
 
 ## Customize

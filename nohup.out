@@ -1,0 +1,13 @@
+[29278, Main Thread] WARNING: Theme parsing error: gtk-dark.css:6754:15: Junk at end of value for padding: 'glib warning', file /usr/src/debug/firefox/firefox-141.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:29278): Gtk-WARNING **: 21:26:40.406: Theme parsing error: gtk-dark.css:6754:15: Junk at end of value for padding
+[Parent 29278, Main Thread] WARNING: Theme parsing error: gtk.css:6754:15: Junk at end of value for padding: 'glib warning', file /usr/src/debug/firefox/firefox-141.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:29278): Gtk-WARNING **: 21:26:40.627: Theme parsing error: gtk.css:6754:15: Junk at end of value for padding
+[Parent 29278, Main Thread] WARNING: Theme parsing error: gtk-dark.css:6754:15: Junk at end of value for padding: 'glib warning', file /usr/src/debug/firefox/firefox-141.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:29278): Gtk-WARNING **: 21:26:40.703: Theme parsing error: gtk-dark.css:6754:15: Junk at end of value for padding
+[Child 29518, MediaDecoderStateMachine #1] WARNING: Decoder=750556eeb400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /usr/src/debug/firefox/firefox-141.0/dom/media/MediaDecoderStateMachine.cpp:371
+[Child 29518, MediaDecoderStateMachine #1] WARNING: Decoder=750556eeb400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /usr/src/debug/firefox/firefox-141.0/dom/media/MediaDecoderStateMachineBase.cpp:168
+[Child 29518, MediaDecoderStateMachine #1] WARNING: Decoder=75055bc6c400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /usr/src/debug/firefox/firefox-141.0/dom/media/MediaDecoderStateMachine.cpp:371
+[Child 29518, MediaDecoderStateMachine #1] WARNING: Decoder=75055bc6c400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /usr/src/debug/firefox/firefox-141.0/dom/media/MediaDecoderStateMachineBase.cpp:168

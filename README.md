@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-		<img src="./assets/preview.webp" />
+		<img src="./assets/preview.png" />
 </p>
 
 **`Hyprun`** is an application launcher derived from **[fzfmenu](https://github.com/levinion/fzfmenu?tab=readme-ov-file#fzfmenu)**. It enables you to launch any software via fuzzy search. This version implements a **delayed startup mechanism** (using `sleep`) to ensure reliable application launching, preventing failures caused by GTK2/GTK3/Qt warning errors.

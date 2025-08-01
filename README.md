@@ -8,8 +8,8 @@
 <div align="center">
 
   ![Stars](https://img.shields.io/github/stars/bt-ASH?style=flat-square)
-  ![Issues](https://img.shields.io/github/issues/bt-ASH?style=flat-square)
-  ![Contributors](https://img.shields.io/github/contributors/bt-ASH?style=flat-square)
+  ![Issues](https://img.shields.io/github/issues/bt-ASH/hyprun?style=flat-square)
+  ![Contributors](https://img.shields.io/github/contributors/bt-ASH/hyprun?style=flat-square)
 
 </div>
 
@@ -57,7 +57,7 @@ which hyprland jq kitty dex fd fzf python
 Add the following configuration to your Hyprland setup. Alternatively, you can place the `hyprun` launcher directly in your `~/.config` directory for easier access:
 
 ```
-bind = $mainMod, D, exec, /bin/python ~/.config/hyprun/hyprun.py
+bind = $mainMod, D, exec, /bin/python ~/.config/hyprun.py
 ```
 
 ## Customize
@@ -100,6 +100,6 @@ def call_fzf():
 
 <div align="center">
 
-![License](https://img.shields.io/github/license/bt-ASH?style=flat-square)
+![License](https://img.shields.io/github/license/bt-ASH/hyprun?style=flat-square)
 
 </div>

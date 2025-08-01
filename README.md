@@ -10,6 +10,7 @@
   ![Stars](https://img.shields.io/github/stars/bt-ASH?style=flat-square)
   ![Issues](https://img.shields.io/github/issues/bt-ASH?style=flat-square)
   ![Contributors](https://img.shields.io/github/contributors/bt-ASH?style=flat-square)
+
 </div>
 
 <p align="center">
@@ -100,4 +101,5 @@ def call_fzf():
 <div align="center">
 
 ![License](https://img.shields.io/github/license/bt-ASH?style=flat-square)
+
 </div>

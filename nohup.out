@@ -9,3 +9,14 @@ Fontconfig warning: using without calling FcInit()
 
 (firefox:152032): Gtk-WARNING **: 02:40:08.967: Theme parsing error: gtk-dark.css:6754:15: Junk at end of value for padding
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[162066, Main Thread] WARNING: Theme parsing error: gtk-dark.css:6754:15: Junk at end of value for padding: 'glib warning', file /usr/src/debug/firefox/firefox-141.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:162066): Gtk-WARNING **: 03:05:28.045: Theme parsing error: gtk-dark.css:6754:15: Junk at end of value for padding
+Fontconfig warning: using without calling FcInit()
+[Parent 162066, Main Thread] WARNING: Theme parsing error: gtk.css:6754:15: Junk at end of value for padding: 'glib warning', file /usr/src/debug/firefox/firefox-141.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:162066): Gtk-WARNING **: 03:05:28.269: Theme parsing error: gtk.css:6754:15: Junk at end of value for padding
+[Parent 162066, Main Thread] WARNING: Theme parsing error: gtk-dark.css:6754:15: Junk at end of value for padding: 'glib warning', file /usr/src/debug/firefox/firefox-141.0/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:162066): Gtk-WARNING **: 03:05:28.347: Theme parsing error: gtk-dark.css:6754:15: Junk at end of value for padding
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt

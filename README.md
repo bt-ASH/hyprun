@@ -1,8 +1,5 @@
 <h3 align="center">
-	<img src="https://avatars.githubusercontent.com/u/205271537?v=4" width="100" alt="Logo"/><br/>
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 	<a href="https://github.com/bt-ASH/hyprun">Hyprun</a>
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
 <div align="center">
